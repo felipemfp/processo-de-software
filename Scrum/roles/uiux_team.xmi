@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-i3C2xsUTFtBitZD0P6lAag" name="new_role,_rslw0OrvEeeDlsdvoifULA" guid="-i3C2xsUTFtBitZD0P6lAag" changeDate="2017-12-27T07:23:09.857-0300">
+  <mainDescription>&lt;p>&#xD;
+    O UI/UX Team:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        É multifuncional, com três (mais ou menos um) membros;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Seleciona o checklist de Interface e Experiência do&amp;nbsp;Usuário&amp;nbsp;do Sprint;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Tem a liberdade de fazer qualquer coisa dentro das diretrizes do projeto para alcançar o objetivo do Sprint;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Auto organiza-se e organiza suas atividades; e&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Apresenta os produtos de trabalho ao Product Owner e ao Scrum Team.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Membros do UI/UX Team não têm nenhum dos papéis tradicionais da design de interface/experiência de usuário, como web&#xD;
+    designer, UI&amp;nbsp;designer, testador ou engenheiro da informação. Todos no projeto trabalham juntos para comprir&#xD;
+    o&amp;nbsp;checklist que eles coletivamente se comprometeram a realizar durante um Sprint. Scrum Teams desenvolvem um&#xD;
+    profundo espírito de camaradagem e o sentimento de que &quot;estamos juntos nisso&quot;.&#xD;
+&lt;/p></mainDescription>
+  <assignmentApproaches>&lt;p>&#xD;
+    Membros devem realizar pesquisas sobre como melhorar o produto ao ponto de vista do usuário.&#xD;
+&lt;/p></assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

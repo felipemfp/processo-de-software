@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-B-d2Wl0Vyk_-I-RwtKzhKQ" name="new_supporting_material,_lC260PVhEdyMdecrgpMbRg" guid="-B-d2Wl0Vyk_-I-RwtKzhKQ" changeDate="2008-03-19T00:08:42.078-0300">
+  <copyrightStatement href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_4kVeYOGBEdyp34pwdTOSVQ"/>
+  <mainDescription>&lt;p>&#xD;
+    No Scrum, os projetos acontecem em uma série de iterações, com um mês de duração, chamadas &lt;em>Sprints&lt;/em>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Scrum é ideal para projetos cujos requisitos mudam rapidamente ou são altamente emergentes. O trabalho a ser feito em&#xD;
+    um projeto Scrum é registrado nas Pendências do Produto (Product Backlog), que é uma lista de todos os desejos de&#xD;
+    mudança no produto. No inicio de cada incremento é feita uma Reunião de Planejamento de Incremento (Sprint Planning&#xD;
+    Meeting) na qual o Dono do Produto (Product Owner) prioriza as Pendências do Produto (Product Backlog), e a Equipe&#xD;
+    Scrum (Scrum Team) seleciona as tarefas que ela pode completar durante o próximo Incremento. Essas tarefas são então&#xD;
+    movidas das Pendências do Produto para as Pendências do Incremento.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Durante um incremento, são conduzidas curtas reuniões diárias chamadas de Scrum Diário (Daily Scrum), que ajudam a&#xD;
+    equipe a manter-se no rumo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ao final de cada incremento a equipe demonstra a funcionalidade concluída, na Reunião de Revisão do Incremento (Sprint&#xD;
+    Review Meeting).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Graficamente, Scrum se parece tal como:&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../Scrum/tasks/the_daily_scrum_C8FB7908.html&quot; guid=&quot;_oSM0AOF-Edyp34pwdTOSVQ&quot;>Daily Scrum&lt;/a>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;Scrum Overview&quot; src=&quot;./resources/ScrumLargeLabelled.png&quot; width=&quot;799&quot; height=&quot;371&quot; usemap=&quot;#map&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Scrum-X é uma extensão do Scrum. X representa extensão e, também, experiência do usuário.&lt;map id=&quot;Map&quot; name=&quot;Map&quot;>&#xD;
+        &lt;area href=&quot;./../../../Scrum/workproducts/product_backlog_68345C16.html&quot; shape=&quot;rect&quot; coords=&quot;62,96,168,174&quot;&#xD;
+        guid=&quot;_OZIPIOF8Edyp34pwdTOSVQ&quot; />&#xD;
+        &lt;area href=&quot;./../../../Scrum/workproducts/sprint_backlog_7A5B8A37.html&quot; shape=&quot;rect&quot; coords=&quot;212,95,319,175&quot;&#xD;
+        guid=&quot;_Q5Ki8OF8Edyp34pwdTOSVQ&quot; />&#xD;
+        &lt;area href=&quot;./../../../Scrum/tasks/the_daily_scrum_C8FB7908.html&quot; shape=&quot;rect&quot; coords=&quot;234,-2,362,69&quot;&#xD;
+        guid=&quot;_oSM0AOF-Edyp34pwdTOSVQ&quot; />&#xD;
+        &lt;area href=&quot;./../../../Scrum/workproducts/potentially_shippable_product_incremement_69E6418C.html&quot; shape=&quot;rect&quot;&#xD;
+        coords=&quot;607,73,756,196&quot; guid=&quot;__uNYkPVgEdyMdecrgpMbRg&quot; />&#xD;
+    &lt;/map>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

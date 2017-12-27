@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ECmjGYeVHQmWVWy_FyBJ1Q" name="ux_checklist,_9biwwOrtEeeDlsdvoifULA" guid="-ECmjGYeVHQmWVWy_FyBJ1Q" changeDate="2017-12-27T07:10:28.823-0300">
+  <mainDescription>O Checklist de Interface e Experiência do Usuário é uma checklist definido (ou incrementado)&amp;nbsp;no início de cada sprint&#xD;
+para uma lista de pontos que o produto deve atender no quesito Interface e Experiência do Usuário.</mainDescription>
+  <purpose>&lt;p>&#xD;
+    Especificar a constante melhoria da interface do produto.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

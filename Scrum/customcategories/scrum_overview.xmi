@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OUAVEKu-MpijImO-oy53Rg" name="new_custom_category,_Om8IAOGEEdyp34pwdTOSVQ" guid="-OUAVEKu-MpijImO-oy53Rg" changeDate="2008-03-19T00:15:02.937-0300">
+  <mainDescription>&lt;p>&#xD;
+    No Scrum, os projetos acontecem em uma série de &quot;Sprints&quot;. os Sprints são análogos as iterações. A duração típica de um&#xD;
+    Sprint é de 2 a 4 semanas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Scrum-X é uma extensão do Scrum. X representa extensão e, também, experiência do usuário.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

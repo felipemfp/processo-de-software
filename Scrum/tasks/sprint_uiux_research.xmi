@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4NQ6401P5TBxFpYqi3HV0w" name=",_FVkEMOryEeeDlsdvoifULA" guid="-4NQ6401P5TBxFpYqi3HV0w" changeDate="2017-12-27T07:40:49.768-0300">
+  <mainDescription>&lt;p>&#xD;
+    A Pesquisa de Interface e Experiência do Usuário do Sprint é realizada durante o Sprint com auxílio direto do Product&#xD;
+    Owner.&lt;br />&#xD;
+    &lt;br />&#xD;
+    Durante a pesquisa, o UI/UX Team busca entender como o produto será utilizado, as espectativas dos usuários, análise&#xD;
+    dos concorrentes, criações de animações, ou seja: como melhorar a experiência do usuário.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
