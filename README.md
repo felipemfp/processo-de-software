@@ -40,9 +40,9 @@ O UI/UX Team:
 * Auto organiza-se e organiza suas atividades; e
 * Apresenta os produtos de trabalho ao Product Owner e ao Scrum Team.
 
-Membros do UI/UX Team não têm nenhum dos papéis tradicionais da design de interface/experiência de usuário, como web designer, UI designer, testador ou engenheiro da informação. Todos no projeto trabalham juntos para comprir o checklist que eles coletivamente se comprometeram a realizar durante um Sprint. Scrum Teams desenvolvem um profundo espírito de camaradagem e o sentimento de que "estamos juntos nisso".
+Membros do UI/UX Team não têm nenhum dos papéis tradicionais da design de interface/experiência de usuário, como web designer, UI designer, testador ou engenheiro da informação. Todos no projeto trabalham juntos para comprir o checklist que eles coletivamente se comprometeram a realizar durante um Sprint.
 
-O UI/UX Team particia de todas os encontros com o Scrum Team de modo que todos fiquem sintonizadas e apliquem as melhorias de interface corretamente durante a Sprint.
+O UI/UX Team participa de todas os encontros com o Scrum Team de modo que todos fiquem sintonizadas e apliquem as melhorias de interface corretamente durante a Sprint.
 
 O UI/UX Team é o principal responsável por realizar a **Pesquisa de Interface e Experiência de Usuário** e avaliar o **Checklist de Interface e Experiência de Usuário**.
 
